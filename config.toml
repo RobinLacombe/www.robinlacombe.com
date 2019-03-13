@@ -1,0 +1,58 @@
+baseurl         = "https://robinlacombe.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Robin Website"
+  subtitle    = "My blog site"
+
+  cover       = "uploads/header.jpeg"
+  description = "Here is my blog."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "RbnLcmb"
+  githubName = "robinlacombe"
+
+  logo = ""
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "RL"
+  authorAvatar = "uploads/profile-picture.jpg"
+  authorLocation = "Nantes, FR"
+  authorDescription = "Free Mind"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Medias"
+  url = "/tags/project/"
+  weight = 100
+
+[[menu.main]]
+  name = "About"
+  url = "/categories/life/"
+  weight = 99
+
+[[menu.main]]
+  name = "Contact"
+  url = "https://google.com/"
+  weight = 95
