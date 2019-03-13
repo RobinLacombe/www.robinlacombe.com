@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://robinlacombe.com/my-first-post/</loc>
+    <loc>https://robinlacombe.github.io/www.robinlacombe.com/my-first-post/</loc>
     <lastmod>2019-03-12T18:21:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robinlacombe.com/</loc>
-    <lastmod>2019-03-12T18:21:43+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://robinlacombe.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://robinlacombe.com/categories/life/</loc>
+    <loc>https://robinlacombe.github.io/www.robinlacombe.com/</loc>
     <lastmod>2019-03-12T18:21:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://robinlacombe.com/post/</loc>
+    <loc>https://robinlacombe.github.io/www.robinlacombe.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robinlacombe.github.io/www.robinlacombe.com/categories/life/</loc>
     <lastmod>2019-03-12T18:21:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://robinlacombe.com/tags/project/</loc>
+    <loc>https://robinlacombe.github.io/www.robinlacombe.com/post/</loc>
     <lastmod>2019-03-12T18:21:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://robinlacombe.com/tags/</loc>
+    <loc>https://robinlacombe.github.io/www.robinlacombe.com/tags/project/</loc>
+    <lastmod>2019-03-12T18:21:43+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robinlacombe.github.io/www.robinlacombe.com/tags/</loc>
     <lastmod>2019-03-12T18:21:43+01:00</lastmod>
     <priority>0</priority>
   </url>

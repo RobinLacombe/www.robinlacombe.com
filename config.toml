@@ -1,4 +1,4 @@
-baseurl         = "https://robinlacombe.com"
+baseurl         = "https://robinlacombe.github.io/www.robinlacombe.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
