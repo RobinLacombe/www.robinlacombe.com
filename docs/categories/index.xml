@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://robinlacombe.com/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://robinlacombe.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Life</title>
+      <link>https://robinlacombe.com/categories/life/</link>
+      <pubDate>Tue, 12 Mar 2019 18:21:43 +0100</pubDate>
+      
+      <guid>https://robinlacombe.com/categories/life/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

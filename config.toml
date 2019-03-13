@@ -4,6 +4,7 @@ languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
+publishDir = "docs"
 
 [params]
   title       = "Robin Website"
@@ -20,8 +21,8 @@ paginate        = 6
   githubName = "robinlacombe"
 
   logo = ""
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
+  orgName = "RL"
+  orgWebsite = "https://www.robinlacombe.com"
   orgDescription = "Here is a description placeholder for your org"
 
   author = "RL"
