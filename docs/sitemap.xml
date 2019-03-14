@@ -3,13 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/practical-guide-to-begin-with-markdown/</loc>
+    <lastmod>2019-03-13T18:56:52+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/my-first-post/</loc>
     <lastmod>2019-03-12T18:21:43+01:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-12T18:21:43+01:00</lastmod>
+    <lastmod>2019-03-13T18:56:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/blogging/</loc>
+    <lastmod>2019-03-13T18:56:52+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,7 +37,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-03-12T18:21:43+01:00</lastmod>
+    <lastmod>2019-03-13T18:56:52+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -38,7 +49,19 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-03-12T18:21:43+01:00</lastmod>
+    <lastmod>2019-03-13T18:56:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/tutorials/</loc>
+    <lastmod>2019-03-13T18:56:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/web/</loc>
+    <lastmod>2019-03-13T18:56:52+01:00</lastmod>
     <priority>0</priority>
   </url>
   

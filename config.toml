@@ -7,11 +7,11 @@ paginate        = 6
 publishDir = "docs"
 
 [params]
-  title       = "Robin Website"
-  subtitle    = "My blog site"
+  title       = "Thoughts of a Curious Mind"
+  subtitle    = "Welcome, friend."
 
-  cover       = "uploads/header.jpeg"
-  description = "Here is my blog."
+  cover       = "uploads/purple_background.jpeg"
+  description = "The place where I express my opinion."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
@@ -27,8 +27,8 @@ publishDir = "docs"
 
   author = "RL"
   authorAvatar = "uploads/profile-picture.jpg"
-  authorLocation = "Nantes, FR"
-  authorDescription = "Free Mind"
+  authorLocation = ""
+  authorDescription = "Curious Mind"
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -44,16 +44,16 @@ publishDir = "docs"
   weight = 200
 
 [[menu.main]]
-  name = "Medias"
-  url = "/tags/project/"
+  name = "Freedom"
+  url = "/categories/freedom/"
   weight = 100
 
 [[menu.main]]
-  name = "About"
-  url = "/categories/life/"
+  name = "Knowledge"
+  url = "/categories/knowledge/"
   weight = 99
 
 [[menu.main]]
-  name = "Contact"
-  url = "https://google.com/"
+  name = "Tutorials"
+  url = "/categories/tutorials"
   weight = 95
